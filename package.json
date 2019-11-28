@@ -1,0 +1,11 @@
+{
+  "name": "project-apd",
+  "version": "1.0.0",
+  "description": "hee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "koos",
+  "license": "ISC"
+}
